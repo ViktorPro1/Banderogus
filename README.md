@@ -1,5 +1,7 @@
 # Banderogus — Frontend Project
 
+Створено за матеріалами компанії ТОВ"GoIT"
+
 [![Star this repo](https://img.shields.io/github/stars/ViktorPro1/Banderogus?style=social)](https://github.com/ViktorPro1/Banderogus/stargazers)
 
 ## Опис
